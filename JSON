@@ -1,0 +1,225 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+      "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "About pipocolandia tv",
+        "image": "https://www.linkpicture.com/q/content1_3.jpg"
+      },
+      {
+        "title": "Install pipocolandia hd",
+        "image": "https://www.linkpicture.com/q/content3_3.jpg"
+      },
+      {
+        "title": "The Main Features Hd Tv",
+        "image": "https://www.linkpicture.com/q/content4_3.jpg"
+      },
+      {
+        "title": "Sports spanish Channels",
+        "image": "https://www.linkpicture.com/q/content1_3.jpg"
+      },
+      {
+        "title": "Movies and series Channels",
+        "image": "https://www.linkpicture.com/q/content3_3.jpg"
+      }
+
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "About pipocolandia tv",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content1_3.jpg",
+        "text": "You use the Internet and, of course, you watch smart tv, but have you ever tried Internet television?  Most people are unaware of one of the more recent developments in interactive Internet use. This new technology brings all the benefits of the Internet and television together to create your own personalised viewing experience. In simple terms Internet television means that you can watch TV straight from your laptop or desktop PC.  Internet TV allows you to you maximize the use of your computer and your Internet connection.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "I expect you have probably thought that there must be more you could do with your personal computer or laptop. You know that typing the occasional letter, transferring your MP3 collection to your iPod or playing the odd game or two online is hardly making use of its full potential. Now you can explore a trusted method of entertainment with access to unlimited viewing and you don’t even have to stop your usual computer activities.  If you are someone who can’t ge",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Install pipocolandia hd",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "There has been a big trend these days on watching TV live on Pc. This is a convergence between computers, internet (broadband) and the television universe.\nMost of the people are using PC-TV to watch their favorite: sports, movies and many other programs not always shown on the local TV channels. With the emergence of Broadband, the quality has improved enormously, bringing high-resolution and crystal clear sound. We are talking here about PC TV-via-the-Internet and not TV Tuner card.\nIPTV – Internet Protocol Television – is around the corner: BT and Microsoft having recently announced a partnership to deliver a range of services covering sports, entertainment and news direct to your home via the internet.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content4_3.jpg",
+        "text": "But you do not need to wait for this I P TV or Venice Project.\nToday there are many sites, proclaiming to provide you the necessary software and know how for enabling you to watch shows that otherwise wouldn’t be available.\nWe have checked several of them. The first question is that real? Yes it is. In addition the cost is very low.\nThere are many sites offering you such a service, not all of them are good, but few are worth your money.\nThe one we consider to be one of the best is called sat live .com. They are offering you a subscription of one year at a very low price and they give you all the needed software and instructions.\nThey have also a lot of updates. Weakness, they are not always Apple compatible.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The Main Features Hd Tv",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content4_3.jpg",
+        "text": "pipocolandiahd televisions have come a long way since they first appeared about a decade ago and they have become the newest must-have home appliance there is on the market. They’re flat, hip and offer stunning images unlike anything we’ve seen on older television models before. Plasma televisions do seem to have it all, but are they the answer to all our home entertainment prayers or just a trend? Unfortunately, plasma televisions have a few disadvantages.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content1_3.jpg",
+        "text": "The cost : This is pipocolandiahd tv the number one consideration for many videophiles and televisions are not cheap at all. When they first came out in the 90s, the price tag for plasma television sets showed a whopping $10000. That forms a part of a regular home mortgage and enough to have consumers running in the opposite direction.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Sports spanish Channels",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content1_3.jpg",
+        "text": "life span : These days, however, plasma televisions have improved and been given longer life spans. Depending on the brand, plasma TVs have a half-life of 60,000 hours. If you’re a normal person with a normal family having normal TV viewing hours, that should not be considered a disadvantage. Imagine this: if you spend at least 5 hours in front of your plasma TV, that will translate to about 33 years of use.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "burn in issues : This is another disadvantage of plasma televisions. Plasma TVs are called that way thanks to the thousands of minute fluorescent lights in the screen. These lights are filled with gas which burn each time the TV is used. This is a good thing, because compared to the LCD and the older CRT TVs, a plasma TV need only light up when they’re needed. LCD panels are like one big light bulb that is always turned on.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Movies and series Channels",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "With regular TV use, that’s really not a problem. The disadvantage appears when you display a static image on screen. What’s a static image? If you’re an HBO fan and you have your plasma television turned on to HBO for hours on end, pretty soon you’ll notice a faint HBO logo on your screen even when you’re turned on to ESPN or another channel.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content4_3.jpg",
+        "text": "That is also an issue if you’re a heavy video game user. If you hook up your video game console to your plasma TV and play all day for days upon days, the hours of playing will burn in the image of, say, the life meter on your plasma screen. That will be a little embarrassing especially if you’re having friends over and they’ll see a shadowy image of your otherworldly pursuits right in front of their eyes.",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
