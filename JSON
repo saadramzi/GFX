@@ -20,27 +20,16 @@
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
-      },
-      {
         "title": "saad",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+        "image": "https://drive.google.com/file/d/1Ux2Dl0-lJ8btVMqGVs6wXDy2BjTzgUdE/view?usp=sharing"
+      },
+    
+      {
+        "title": "daaad",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
-      },
-      {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
-      },
-      {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
-      },
-      {
-        "title": "Twisted Lands: Shadow Town",
+        "title": "ramzi",
         "image": "https://usercontent1.hubstatic.com/6961620.jpg"
       }
     ],
@@ -131,10 +120,10 @@
         "gravity": "left",
         "left": "5",
         "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "isLink": "false","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
         "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
         "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
-        "isNative": "false"
+        "isNative": "true"
       }
     ]
 
