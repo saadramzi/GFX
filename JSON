@@ -19,7 +19,7 @@
     ],
 
     "items": [
-      {
+{
         "title": "2020",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg"
       }, 
@@ -63,8 +63,10 @@
 	    {
         "title": "2010",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg"
-      }
-    ],
+      }     
+
+
+	 ],
 
     "content1": [
       {
@@ -111,30 +113,6 @@
         "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
         "isNative": "false"
       }
-    ],
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "MADA",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "MATH.",
-        "isNative": "true"
-      }
     ]
-
   }
 }
